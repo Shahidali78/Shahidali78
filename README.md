@@ -1,4 +1,3 @@
-[README_3.md](https://github.com/user-attachments/files/25740845/README_3.md)
 <div align="center">
 
 <!-- Typing SVG -->
