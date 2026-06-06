@@ -1,107 +1,82 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shahid+Ali;AI+%26+ML+Enthusiast;Master's+Student+%40+UniVR;Building+Intelligent+Systems" alt="Typing SVG" />
+# Shahid Ali
 
-<br/>
+### Applied AI Engineer | MSc Artificial Intelligence at the University of Verona
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/shahid-ali-23250a17b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Shahidali78"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+I build end-to-end AI systems, from data preparation and model development to evaluation, agentic workflows, and usable applications.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-shahidali.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahidali.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahid_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-ali-23250a17b)
+[![GitHub](https://img.shields.io/badge/GitHub-Shahidali78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahidali78)
 
----
-
-## 🧠 About Me
-
-```yaml
-Name: Shahid Ali
-Location: Verona, Italy
-Education: Master's in Artificial Intelligence @ University of Verona
-Interests: Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, Agentic AI, RAG Systems
-Currently Working On: ML, Deep Learning, Computer Vision, RAG Systems, Agentic AI & Generative AI
-```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+Based in Verona, Italy
 
 </div>
 
----
+## Profile
 
-## 🏆 GitHub Trophies
+I am an Applied AI Engineer and MSc Artificial Intelligence student with hands-on experience in machine learning, deep learning, computer vision, generative AI, retrieval-augmented generation, agentic systems, and reinforcement learning.
+
+My work focuses on turning AI ideas into complete solutions: preparing data, training and evaluating models, designing tool-using agents, building interactive applications, and communicating results clearly.
+
+## Research Highlight
+
+### Reinforcement Learning for Building Energy Management
+
+For my current research and MSc thesis, I am developing reinforcement learning environments with CityLearn 2023 for energy optimization across buildings with solar generation, battery storage, HVAC, and domestic hot-water systems.
+
+| Focus | Result |
+|---|---|
+| Environment design | Built 5 progressively complex custom CityLearn environments |
+| Algorithms | Trained and evaluated SAC and PPO agents with Stable Baselines3 |
+| Best performance | Achieved up to 70.1% improvement over a random baseline |
+| Peak-demand control | Reduced peak-demand events from 219/720 to 0/720 control steps |
+| Scope | Progressed from single-building control to multi-building coordination |
+
+## Technical Toolbox
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, HTML, CSS |
+| Machine Learning | scikit-learn, pandas, NumPy, Matplotlib, Seaborn |
+| Deep Learning and Vision | PyTorch, TensorFlow, OpenCV, CNNs |
+| Reinforcement Learning | Stable Baselines3, SAC, PPO, CityLearn |
+| Generative and Agentic AI | OpenAI APIs, LangChain, LangGraph, LangSmith, Hugging Face |
+| RAG and Data Systems | Chroma, vector databases, SQLite, document retrieval |
+| Applications and Visualization | Streamlit, Plotly |
+| Development | Git, Linux, VS Code |
+
+## Featured Projects
+
+| Project | What I Built | Core Stack |
+|---|---|---|
+| [AI-Powered Supply Chain Risk Dashboard](https://github.com/Shahidali78/AI_Supply_Chain_Risk_Management-) | Predicts delivery risk, monitors inventory, forecasts demand, detects anomalies, and generates AI-assisted management reports from CSV or Excel data. | Python, Streamlit, LangGraph, scikit-learn, Plotly, SQLite |
+| [AI Data Analyst Agent](https://github.com/Shahidali78/Ai-Data-Analyst-Agent) | Answers natural-language questions about uploaded datasets, produces insights and chart recommendations, detects anomalies, trains ML models, and exports reports. | OpenAI, LangChain, LangGraph, pandas, Plotly, scikit-learn |
+| [Multi-Tool Research Agent](https://github.com/Shahidali78/Multi-Tool-Research-Agent) | Researches topics across web search, arXiv, and Wikipedia; scores source reliability; stores notes; and exports structured briefs as Markdown or PDF. | LangChain, Streamlit, OpenAI, arXiv, JSON |
+| [Predictive Maintenance on NASA C-MAPSS](https://github.com/Shahidali78/Predictive_Maintenance_CMAPSS) | Predicts turbofan remaining useful life with leakage-aware splits, LSTM/BiLSTM models, multi-seed evaluation, and ensemble selection. | Python, TensorFlow, LSTM, BiLSTM, pandas |
+| [PDF RAG Assistant](https://github.com/Shahidali78/pdf-rag-assistant) | Provides citation-aware question answering over uploaded PDFs using local vector storage and embedding fallback support. | LangChain, Chroma, Streamlit, RAG |
+
+## Experience
+
+- **Research Intern** | May 2026 - Present: Building custom CityLearn environments and evaluating SAC/PPO agents for reinforcement learning-based building energy management.
+
+- **Machine Learning Engineer Intern** | March 2026 - May 2026: Developed classification and regression pipelines, prepared raw datasets, and trained and validated linear models, random forests, SVMs, and related baselines.
+
+- **Deep Learning Intern** | December 2024 - February 2025: Designed CNN-based computer vision models, evaluated them with accuracy, precision, recall, and F1 score, and supported application integration.
+
+## Education
+
+- **MSc in Artificial Intelligence**, University of Verona, Italy | October 2023 - Present
+
+- **BE in Industrial Engineering and Management**, Mehran University of Engineering and Technology, Pakistan | 2018 - 2022
+
+## Current Interests
+
+Applied AI engineering, AI agents, retrieval-augmented generation, reinforcement learning, computer vision, predictive analytics, and research collaborations.
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahidali78&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahidali78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Shahidali78&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidali78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidali78&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Shahidali78/Multi-Tool-Research-Agent"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahidali78&repo=Multi-Tool-Research-Agent&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Multi-Tool-Research-Agent"/></a>
-<a href="https://github.com/Shahidali78/pdf-rag-assistant"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahidali78&repo=pdf-rag-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="pdf-rag-assistant"/></a>
-
-<a href="https://github.com/Shahidali78/Hand-Gesture-Recognition"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahidali78&repo=Hand-Gesture-Recognition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Hand-Gesture-Recognition"/></a>
-<a href="https://github.com/Shahidali78/AI-Study-Mentor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahidali78&repo=AI-Study-Mentor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="AI-Study-Mentor"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Shahidali78&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
+**Building AI systems that are measurable, useful, and grounded in real problems.**
 
 </div>
