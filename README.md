@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Reinforcement+Learning+%C2%B7+Agentic+AI+%C2%B7+RAG;From+research+problem+to+shipped+application;Building+AI+systems+that+are+measurable+and+useful" alt="Typing animation: Reinforcement Learning, Agentic AI, RAG" />
+
 I build practical, end-to-end AI systems across machine learning, deep learning,<br/>
 reinforcement learning, computer vision, RAG, and agentic workflows.
 
@@ -17,10 +19,31 @@ reinforcement learning, computer vision, RAG, and agentic workflows.
 
 I am an **Applied AI Engineer** and **MSc Artificial Intelligence student at the University of Verona**. I enjoy taking AI projects beyond notebooks: preparing data, designing models and agent workflows, evaluating results, and delivering interactive applications that address real problems.
 
-- Currently researching **reinforcement learning for building energy management**
-- Experienced with **AI agents, RAG systems, predictive analytics, and computer vision**
-- Interested in **applied AI engineering, intelligent automation, and research collaboration**
-- Background in **Industrial Engineering and Management**
+- 🔬 Currently researching **reinforcement learning for building energy management**
+- 🤖 Experienced with **AI agents, RAG systems, predictive analytics, and computer vision**
+- 🎯 Interested in **applied AI engineering, intelligent automation, and research collaboration**
+- 🏭 Background in **Industrial Engineering and Management**
+
+## 🚀 Flagship Project
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/Shahidali78/Rl-Env-Designer">RL Environment Auto-Designer</a> — agentic AI meets reinforcement learning</h3>
+      <p>Describe any optimization problem in plain English — <em>"optimize hospital shift scheduling"</em> — and a pipeline of <strong>five AI agents</strong> does the rest, streamed live to a dark-themed dashboard:</p>
+      <p align="center">
+        <code>🧠 Designer</code> → <code>💻 Coder</code> → <code>⚙️ Validator</code> → <code>🏋️ Trainer</code> → <code>📊 Reporter</code>
+      </p>
+      <ul>
+        <li>LLM designs the full MDP: state space, action space, reward components, episode logic (structured JSON)</li>
+        <li>Generates a runnable <strong>Gymnasium</strong> environment, validates it in a sandboxed process, and <strong>auto-fixes its own bugs</strong></li>
+        <li>Auto-selects and trains <strong>SAC or PPO</strong> with Stable Baselines3, with crash-recovery retraining</li>
+        <li>Real-time NDJSON streaming pipeline, reward-curve plots, downloadable trained models, markdown reports</li>
+      </ul>
+      <p><code>FastAPI</code> <code>Gymnasium</code> <code>Stable Baselines3</code> <code>GPT-5</code> <code>Claude</code> <code>Next.js</code> <code>Tailwind</code> <code>Agentic AI</code></p>
+    </td>
+  </tr>
+</table>
 
 ## Research Impact
 
@@ -28,17 +51,21 @@ I am an **Applied AI Engineer** and **MSc Artificial Intelligence student at the
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <strong>5</strong><br/>
       <sub>Custom CityLearn environments</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <strong>70.1%</strong><br/>
       <sub>Improvement over random baseline</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <strong>0 / 720</strong><br/>
       <sub>Peak-demand events with best SAC agent</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>5-agent</strong><br/>
+      <sub>Autonomous RL design pipeline</sub>
     </td>
   </tr>
 </table>
@@ -49,22 +76,24 @@ I am an **Applied AI Engineer** and **MSc Artificial Intelligence student at the
 
 As part of my current research and MSc thesis, I am developing **CityLearn 2023** environments that model solar generation, battery storage, HVAC, and domestic hot-water systems. I train and evaluate **SAC** and **PPO** agents with Stable Baselines3, progressing from single-building control to multi-building energy coordination.
 
+That hands-on environment-design work inspired the [RL Environment Auto-Designer](https://github.com/Shahidali78/Rl-Env-Designer) — an agentic pipeline that automates the design → code → validate → train → report loop I use in research, for any problem stated in plain English.
+
 ## Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,git,linux,vscode,js,html,css&perline=11" alt="Core technology icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,tailwind,git,linux,vscode&perline=12" alt="Core technology icons" />
 
 </div>
 
 **AI and Machine Learning**<br/>
-PyTorch &middot; TensorFlow &middot; scikit-learn &middot; Stable Baselines3 &middot; OpenCV &middot; pandas &middot; NumPy
+PyTorch &middot; TensorFlow &middot; scikit-learn &middot; Stable Baselines3 &middot; Gymnasium &middot; OpenCV &middot; pandas &middot; NumPy
 
 **Generative and Agentic AI**<br/>
-OpenAI APIs &middot; LangChain &middot; LangGraph &middot; LangSmith &middot; Hugging Face &middot; RAG &middot; Chroma
+OpenAI API &middot; Anthropic API &middot; LangChain &middot; LangGraph &middot; LangSmith &middot; Hugging Face &middot; RAG &middot; Chroma
 
 **Applications and Data**<br/>
-Streamlit &middot; Plotly &middot; Matplotlib &middot; Seaborn &middot; SQLite &middot; CSV/Excel analytics
+FastAPI &middot; Next.js &middot; Streamlit &middot; Plotly &middot; Matplotlib &middot; Seaborn &middot; SQLite &middot; CSV/Excel analytics
 
 ## Selected Projects
 
@@ -139,7 +168,7 @@ Mehran University of Engineering and Technology, Pakistan &middot; 2018 - 2022
 
 <br/><br/>
 
-**Let us build AI systems that are measurable, useful, and grounded in real problems.**
+**Let's build AI systems that are measurable, useful, and grounded in real problems.**
 
 </div>
 
